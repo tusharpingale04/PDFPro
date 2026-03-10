@@ -24,3 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "PDFPro"
 include(":app")
+include(":design-system")
